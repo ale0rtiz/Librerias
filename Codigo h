@@ -1,0 +1,18 @@
+#ifndef OPERACIONES_H
+#define OPERACIONES_H
+
+//  DECLARARACION DE CONSTANTES O MACROS
+
+#define P1 3.1416
+
+//  PROTOTIPOS DE LAS FUNCIONES QUE LA LIBRERIA OFRECE AL MUNDO
+
+int suma(int a, int b);
+int calcularAreasCuadrado(int lado1);
+void mostrarVector(int v[], tam);
+
+int calcularPerimetro(int lado2);
+int multiplicarTresNumeros(int c, d, e);
+
+
+#endif
